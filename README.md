@@ -39,7 +39,7 @@ The "Binary Number Systems" and "Encoding Schema" lecture segments were adapted 
 
 ## Lab Notebook Template
 
-[Link to lab notebook template](https://docs.google.com/document/d/172KM0g9zsvhJeeWzvUszeqCxfJOWMulwetfx8hLCu9M/copy) (ND users, Google Doc)
+[Link to lab notebook template](https://docs.google.com/document/d/1Yi5hG_ySbUUeXTg3ryfvuk9akJwM3UrY7hMJpFlWePQ/edit?usp=sharing)
 
 # Physical, Logical & Conceptual Objects
 
