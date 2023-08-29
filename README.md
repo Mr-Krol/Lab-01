@@ -23,7 +23,6 @@ The "Binary Number Systems" and "Encoding Schema" lecture segments were adapted 
 - "[Boolean Logic & Logic Gates](https://www.pbs.org/video/boolean-logic-logic-gates-crash-course-computer-science-nobmpt/)"
 
 # Table of Contents
-- [Lecture & Live Coding](#lecture--live-coding)
 - [Key Concepts](#key-concepts)
 - [Lab Notebook Template](#lab-notebook-template)
 - [Physical, Logical & Conceptual Objects](#physical-logical--conceptual-objects)
@@ -33,23 +32,6 @@ The "Binary Number Systems" and "Encoding Schema" lecture segments were adapted 
 - [Putting It All Together](#putting-it-all-together)
 - [File Formats](#file-formats)
 - [Lab Notebook Questions](#lab-notebook-questions)
-
-## Lecture & Live Coding
-
-Throughout this lab, you will see a Panopto icon at the start of each section.
-
-This icon indicates there is lecture/live coding asynchronous content that accompanies this section of the lab. 
-
-You can click the link in the figure caption to access these materials (ND users only).
-
-Example:
-
-<table>
- <tr><td>
-<img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=517ac0ae-6466-4508-9264-aef401054b25">Lecture/live coding playlist</a></td>
-  </tr>
-  </table>
 
 ## Key Concepts
 
