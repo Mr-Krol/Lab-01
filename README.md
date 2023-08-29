@@ -222,7 +222,7 @@ The Mario example featured 8-bit and 16-bit color. If you've ever seen Red-Green
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/bits-bytes/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJMHhYmWaqMo7_Zl2o-RLVwpDVzPDAzSSr2egZdlGjGTf__A/viewform?usp=sf_link">Representing Color Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfmK4f2fPEHjsBV5N8HGnHLQKcG51I4xBNkgYu4zpdUClfYhw/viewform?usp=sf_link">Representing Color Comprehension Check</a></td>
   </tr>
   </table>
 
