@@ -87,7 +87,7 @@ This lab will explore the relationship between the logical and conceptual object
 <table>
  <tr><td>
 <img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-  <td><a href="[https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=248cf9cd-9aa7-4175-bd96-aef30144f577](https://www.pbs.org/video/representing-numbers-and-letters-with-binary-crash-course-c-pgrlei/)">Binary Number Systems</a></td>
+  <td><a href="https://www.pbs.org/video/representing-numbers-and-letters-with-binary-crash-course-c-pgrlei/">Binary Number Systems</a></td>
   </tr>
   </table>
   
