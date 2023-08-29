@@ -175,7 +175,7 @@ Sample conversion table:
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/bits-bytes/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScOk5_z6dRF8WvPUezpyU78sI2bvVrdnySVmNfH9IUGnXYh0w/viewform?usp=sf_link">Encoding Schema Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSd8YABAhKW4Zll39pp5-7B4FfPjQe_HLxbRB6NUA_3hrIsIgA/viewform?usp=sf_link">Encoding Schema Comprehension Check</a></td>
   </tr>
   </table>
 
