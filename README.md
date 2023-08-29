@@ -12,12 +12,7 @@ By the end of this lab you will be able to:
 -	Use a hex editor to manipulate binary code
 -	Define the relationship between the logical, physical, and conceptual facets of a digital object
 
-<table>
- <tr><td>
-<img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=517ac0ae-6466-4508-9264-aef401054b25">Lecture/live coding playlist</a></td>
-  </tr>
-  </table>
+
 
 ## Acknowledgements
 
