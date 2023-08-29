@@ -133,7 +133,7 @@ This lab will explore the relationship between the logical and conceptual object
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/bits-bytes/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">Binary Number Systems Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1nQfy-Rgd4Cp3rJXW3jbkZd_-RIk9hq2N5ODDoHqYOHsrlQ/viewform?usp=sf_link">Binary Number Systems Comprehension Check</a></td>
   </tr>
   </table>
 
