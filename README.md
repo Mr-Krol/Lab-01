@@ -184,7 +184,7 @@ Sample conversion table:
 <table>
  <tr><td>
 <img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-  <td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fabb1a9f-de9e-4bcd-94b4-aef400c1a6c9">Representing Color</a></td>
+  <td><a href="https://realpython.com/lessons/how-computers-see-images/">Representing Color</a></td>
   </tr>
   </table>
 
