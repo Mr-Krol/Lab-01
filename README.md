@@ -307,7 +307,7 @@ For this section of the lab, you'll need to download three different text files:
 
 # Lab Notebook Questions
 
-[Link to lab notebook template](https://docs.google.com/document/d/172KM0g9zsvhJeeWzvUszeqCxfJOWMulwetfx8hLCu9M/copy) (ND users, Google Doc)
+[Link to lab notebook template](https://docs.google.com/document/d/1Yi5hG_ySbUUeXTg3ryfvuk9akJwM3UrY7hMJpFlWePQ/edit?usp=sharing)
 
 Resources for Q1-Q3:
 - [Decimal – Hexadecimal – Binary Conversion Table](https://github.com/kwaldenphd/bits-bytes/blob/main/ASCII-Conversion-Chart.pdf)
