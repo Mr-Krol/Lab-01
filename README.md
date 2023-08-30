@@ -301,7 +301,7 @@ For this section of the lab, you'll need to download three different text files:
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/bits-bytes/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeyt0uZ05pfAf_IFJEC-_t55dfCGBERoNlLWfWSqI9pO_VoYw/viewform?usp=sf_link">File Formats Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScyXDE0rLh29I2W5Th-_eBrbtIpx-UrQCdF4-47EhQydeWEIA/viewform?usp=sf_link">File Formats Comprehension Check</a></td>
   </tr>
   </table>
 
