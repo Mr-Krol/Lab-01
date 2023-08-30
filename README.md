@@ -261,7 +261,7 @@ For this section of the lab, you'll need to download three different text files:
 - `hello_world.rtf`
 - `hello_world.docx`
 
-[Click here](https://github.com/kwaldenphd/bits-bytes/blob/draft/files/hello-world-files.zip) to download all three files.
+[Click here](https://github.com/Mr-Krol/Lab-01/blob/main/files/hello-world-files.zip) to download all three files.
 
 <table>
  <tr><td>
